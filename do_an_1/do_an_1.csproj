@@ -60,6 +60,7 @@
     <Compile Include="quanli_kho.Designer.cs">
       <DependentUpon>quanli_kho.cs</DependentUpon>
     </Compile>
+    <Compile Include="test.cs" />
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
